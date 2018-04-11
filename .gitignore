@@ -113,4 +113,6 @@ $RECYCLE.BIN/
 
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
-!/.idea/vcs.xml
+.idea/dyguests.github.io.iml
+.idea/modules.xml
+.idea/vcs.xml
